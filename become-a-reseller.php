@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Become A Reseller || Rent Agreement Mumbai</title>
+    <title>Become A Reseller || Online Rental Agreement</title>
     <?php
     require "includes/head.php";
     ?>
